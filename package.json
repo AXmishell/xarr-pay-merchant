@@ -18,7 +18,7 @@
                 "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_qqpay.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/jk_qqpay.zip",
                 "download_filename": "jk_qqpay.zip",
                 "md5": "32ce4413849dbb8f696bb4b3d33f0fb8"
             },
@@ -36,7 +36,7 @@
                 "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "update_time": 1731082911,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_wechat.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/jk_wechat.zip",
                 "download_filename": "jk_wechat.zip",
                 "md5": "a4e21438c888c97768dfebebfd83aba5"
             },
@@ -54,7 +54,7 @@
                 "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_alipay.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/jk_alipay.zip",
                 "download_filename": "jk_alipay.zip",
                 "md5": "a037eb4aac1e20dabe197ab0d0e6aa40"
             },
@@ -72,7 +72,7 @@
                 "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_jdsyt.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/jk_jdsyt.zip",
                 "download_filename": "jk_jdsyt.zip",
                 "md5": "f17e0058d7bef33f01194c2be61b282d"
             },
@@ -90,7 +90,7 @@
                 "external_repository_url": "",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_alipay_xd.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/yun_alipay_xd.zip",
                 "download_filename": "yun_alipay_xd.zip",
                 "md5": "76c81f897845eb2a31299a96fd45444a"
             },
@@ -108,7 +108,7 @@
                 "external_repository_url": "",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_xd.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_xd.zip",
                 "download_filename": "yun_wechat_xd.zip",
                 "md5": "153904086eba9f25f5e8a7f082e5b336"
             },
@@ -126,7 +126,7 @@
                 "external_repository_url": "",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_uos_xd.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_uos_xd.zip",
                 "download_filename": "yun_wechat_uos_xd.zip",
                 "md5": "425feab8a9ddd6a22ed9626e5d39e4ed"
             },
@@ -144,7 +144,7 @@
                 "external_repository_url": "",
                 "update_time": 1732183244,
                 "version": "1.4.5",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_uos.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_uos.zip",
                 "download_filename": "yun_wechat_uos.zip",
                 "md5": "d695acda525b0bb3bfd002be70cdc649"
             },
@@ -162,7 +162,7 @@
                 "external_repository_url": "",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_lakala.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/jk_lakala.zip",
                 "download_filename": "jk_lakala.zip",
                 "md5": "c3d711fd8f0fff92362f416c9f5bfd6a"
             },
@@ -180,7 +180,7 @@
                 "external_repository_url": "",
                 "update_time": 1731053118,
                 "version": "1.4.2",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_qqpay.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/yun_qqpay.zip",
                 "download_filename": "yun_qqpay.zip",
                 "md5": "b44b71410d85bb9a334699c6956aedc8"
             },
@@ -198,10 +198,10 @@
                 "external_repository_url": "",
                 "update_time": 1732086782,
                 "version": "1.4.4",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_imac.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_imac.zip",
                 "download_filename": "yun_wechat_imac.zip",
                 "md5": "48bf807c859a0792d7e147cfffcc8057"
-            }, 
+            },
             {
                 "uuid": "9c962a5c-3234-4c20-ab5f-34092ec5aff2",
                 "name": "jk_wmwechat_message",
@@ -216,7 +216,7 @@
                 "external_repository_url": "",
                 "update_time": 1732084221,
                 "version": "1.4.4",
-                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_wmwechat_message.zip",
+                "download_url": "https://raw.githubusercontent.com/AXmishell/xarr-pay-merchant/refs/heads/master/plugins/jk_wmwechat_message.zip",
                 "download_filename": "jk_wmwechat_message.zip",
                 "md5": "5f78b148af3502f50b36c1e68a7cfdd1"
             }
